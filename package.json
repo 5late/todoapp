@@ -9,6 +9,9 @@
   "devDependencies": {
     "electron": "^11.1.1"
   },
+  "scripts": {
+    "start": "electron ."
+  },
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0"
   }

@@ -1,3 +1,3 @@
-var name = 'John Doe'
+var name = 'Christian'
 
-document.getElementsByClassName('app-title').innerText = name + "'s Tasks"
+document.getElementById('greetings').innerText = name + "'s tasks!" 
